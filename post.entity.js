@@ -1,4 +1,4 @@
-class Post {
+export class Post {
   constructor(title, content, author) {
     this.title = title;
     this.content = content;
